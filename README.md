@@ -85,7 +85,7 @@ O programa realiza automaticamente essa verificação ao final da execução.
 
 Link do vídeo:
 
-👉 COLE AQUI O LINK DO SEU VÍDEO
+👉 (https://youtu.be/5MRI2rYVBYM)
 
 ⸻
 
